@@ -1,0 +1,32 @@
+,RANK,EVENT,TIME,ATHLETE,GENDER,LSC,CLUB CODE,"SWIMMER
+COUNTRY",MEET NAME,"SWIM
+DATE","LOCATION
+CITY"
+0,1.0,50 FR LCM,20.91,Cesar Cielo,Male,Americas,BRA,Brazil,2009 BRA Open,12/18/2009,Unknown
+1,2.0,50 FR LCM,20.94,Fred Bousquet,Male,Europe,FRA,France,2008 Olympic Invite,4/26/2009,Unknown
+2,3.0,50 FR LCM,21.28,Eamon Sullivan,Male,Oceania,AUS,Australia,2008 AUS Olympic Trials,3/28/2008,Unknown
+3,4.0,50 FR LCM,21.41,Eamon Sullivan,Male,Oceania,AUS,Australia,Unknown Record Meet 1150,3/27/2008,Unknown
+4,5.0,50 FR LCM,21.5,Alain Bernard,Male,Europe,FRA,France,2008 European Champs,3/23/2008,Unknown
+5,6.0,50 FR LCM,21.56,Eamon Sullivan,Male,Oceania,AUS,Australia,Unknown Record Meet 1144,2/17/2008,Unknown
+6,7.0,50 FR LCM,21.64,Alexander Popov,Male,Europe,RUS,Russia,2000 Time Trial,6/16/2000,Unknown
+7,8.0,50 FR LCM,21.81,Tom Jager,Male,Americas,USA,United States,Unknown Record Meet 817,3/24/1990,Unknown
+8,9.0,50 FR LCM,21.98,Tom Jager,Male,Americas,USA,United States,Unknown Record Meet 817,3/24/1990,Unknown
+9,10.0,50 FR LCM,22.12,Tom Jager,Male,Americas,USA,United States,Unknown Record Meet 811,8/20/1989,Unknown
+10,11.0,50 FR LCM,22.14,Matt Biondi,Male,Americas,USA,United States,1988 Olympic Games,9/24/1988,Unknown
+11,12.0,50 FR LCM,22.18,Peter Williams,Male,Asia,UNK,Unknown,Unknown Record Meet 784,4/10/1988,Unknown
+12,14.0,50 FR LCM,22.23,Tom Jager,Male,Americas,USA,United States,Unknown Record Meet 781,3/25/1988,Unknown
+13,15.0,50 FR LCM,22.32,Tom Jager,Male,Americas,USA,United States,Unknown Record Meet 769,8/13/1987,Unknown
+14,16.0,50 FR LCM,22.33,Matt Biondi,Male,Americas,USA,United States,Unknown Record Meet 756,6/26/1986,Unknown
+15,16.0,50 FR LCM,22.33,Matt Biondi,Male,Americas,USA,United States,1987 National Champs,7/27/1987,Unknown
+16,18.0,50 FR LCM,22.4,Tom Jager,Male,Americas,USA,United States,Unknown Record Meet 741,12/6/1985,Unknown
+17,19.0,50 FR LCM,22.52,Dano Halsall,Male,Europe,SUI,Switzerland,Unknown Record Meet 738,7/21/1985,Unknown
+18,20.0,50 FR LCM,22.54,Robin Leamy,Male,Americas,USA,United States,Unknown Record Meet 666,8/15/1981,Unknown
+19,21.0,50 FR LCM,22.71,Joseph Bottom,Male,Americas,USA,United States,Unknown Record Meet 645,8/15/1980,Unknown
+20,22.0,50 FR LCM,22.83,Joseph Bottom,Male,Americas,USA,United States,Unknown Record Meet 645,8/15/1980,Unknown
+21,23.0,50 FR LCM,22.96,Rowdy Gaines,Male,Americas,USA,United States,Unknown Record Meet 631,4/10/1980,Unknown
+22,24.0,50 FR LCM,23.12,Chris Cavanaugh,Male,Americas,USA,United States,Unknown Record Meet 631,4/10/1980,Unknown
+23,25.0,50 FR LCM,23.66,Chris Cavanaugh,Male,Americas,USA,United States,Unknown Record Meet 619,2/2/1980,Unknown
+24,26.0,50 FR LCM,23.7,Klaus Steinbach,Male,Europe,GER,Germany,Unknown Record Meet 609,7/23/1979,Unknown
+25,27.0,50 FR LCM,23.72,Ron Manganiello,Male,Asia,UNK,Unknown,Unknown Record Meet 583,7/29/1978,Unknown
+26,28.0,50 FR LCM,23.74,Joseph Bottom,Male,Americas,USA,United States,Unknown Record Meet 545,7/3/1977,Unknown
+27,29.0,50 FR LCM,23.86,Jonty Skinner,Male,Asia,UNK,Unknown,Unknown Record Meet 530,8/14/1976,Unknown
