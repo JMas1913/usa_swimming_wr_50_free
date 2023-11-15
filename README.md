@@ -1,3 +1,8 @@
+# USA Swimming World Record Progression for the Men's and Women's 50 Free LCM
+#### Date 11/14/23
+#### By: Jonathan Mastin
+
+
 ![Image 11-15-23 at 3 04 PM](https://github.com/JMas1913/usa_swimming_wr_50_free/assets/88563628/c38b893b-bdc3-4e67-a757-8acd703b6773)
 
 ## Overview
